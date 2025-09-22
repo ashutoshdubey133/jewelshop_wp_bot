@@ -1,0 +1,1 @@
+# jewelshop_wp_bot
