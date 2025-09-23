@@ -1,4 +1,7 @@
 WHATSAPP BUSINESS API BOT GET STARTED ------------
 https://developers.facebook.com/docs/whatsapp/cloud-api/get-started
 
+Deploy using google cloud run ---------
+https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-java-service
+
 
